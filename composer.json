@@ -1,0 +1,17 @@
+{
+    "name": "zsim0n/JyskeBank",
+    "description": "",
+    "require": {
+    	"php": ">=5.3.3",
+		"symfony/console": "2.5.*@dev",
+		"psr/log": "1.0.*@dev",
+        "symfony/finder": "2.5.*@dev",
+        "symfony/filesystem": "2.5.*@dev",
+        "league/csv": "6.0.*@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "zsim0n\\JyskeBank\\": "src/"
+        }
+    }
+}

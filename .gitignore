@@ -1,0 +1,5 @@
+*.csv
+_save
+composer.phar
+composer.lock
+/vendor/
