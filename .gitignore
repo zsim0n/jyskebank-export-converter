@@ -2,4 +2,5 @@
 _save
 composer.phar
 composer.lock
+.vagrant
 /vendor/
